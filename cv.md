@@ -9,3 +9,5 @@ HTML, CSS
 * Belorussian - native
 * English - elementary
 * German- elementary
+## Education:
+International Sakharov Environmental University, ISEU
